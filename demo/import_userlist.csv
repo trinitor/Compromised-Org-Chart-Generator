@@ -1,0 +1,27 @@
+Fistname;Lastname;Title;Department;Manager
+Eliceo;Bigwheel;CEO;Top Management;
+Clifford;Banker;CFO;Top Management;Eliceo.Bigwheel
+Victoria;Nerdstein;CIO;Top Management;Eliceo.Bigwheel
+Henrik;Peopleson;VP HR;Top Management;Eliceo.Bigwheel
+Megan;Jones;Controler;Finance;Clifford.Banker
+Lindsey;Robinson;Controler;Finance;Clifford.Banker
+Geoffrey;Patton;Director IT Infrastructure;IT;Victoria.Nerdstein
+Brian;Nguyen;Director IT Business Applications;IT;Victoria.Nerdstein
+Richard;Anderson;Director IT Service Delivery;IT;Victoria.Nerdstein
+Holly;Garcia;Network Engineer;IT;Geoffrey.Patton
+Edward;Miles;IAM Engineer;IT;Geoffrey.Patton
+Cheryl;Russell;Service Desk Manager;IT;Richard.Anderson
+Travis;King;IT Operations Manager;IT;Richard.Anderson
+Mary;Medina;Service Desk Analist;IT;Cheryl.Russell
+Sean;Chambers;Service Desk Analist;IT;Cheryl.Russell
+Steven;Choi;Service Desk Analist;IT;Cheryl.Russell
+Jonathan;Mendoza;Service Desk Analist;IT;Cheryl.Russell
+Melissa;Alvarez;IT Operations Engineer;IT;Travis.King
+Bethany;Thompson;IT Operations Engineer;IT;Travis.King
+Charles;Foster;IT Operations Engineer;IT;Travis.King
+Hannah;Alexander;ERP Specialist;IT;Brian.Nguyen
+Michael;Mcdowell;CRM Specialist;IT;Brian.Nguyen
+Brenda;Anderson;HR Manager;HR;Henrik.Peopleson
+Hector;Wilkinson;HR Specialist;HR;Brenda.Anderson
+Cody;Lewis;HR Specialist;HR;Brenda.Anderson
+Terry;Rivera;HR Specialist;HR;Brenda.Anderson
